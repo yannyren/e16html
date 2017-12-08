@@ -1,0 +1,32 @@
+#wrapper {
+  width:80%;
+  margin: 20px auto 20px auto;
+  background-color:red;
+}
+
+header {
+  background-color: blue;
+}
+
+#content-wrapper {
+  background-color: black;
+  display: flex;
+}
+
+aside {
+  width: 30%;
+  background-color: violet;
+}
+
+#content-wrapper aside div {
+  background-color: green;
+}
+
+main {
+  width: 70%;
+  background-color: gold;
+}
+
+footer {
+  background-color: orange;
+}
